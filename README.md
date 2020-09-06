@@ -26,7 +26,7 @@ HOW TO RUN:
 
 Feel free to add different file formats and tweak the file acccording to your own needs and requirements. 
 
-
+To see the before and after folder stuctures... please refer to the "issues" section of this repo. 
 
 IMPORTANT : Sorting process is irreversible, so first try out with a copy of your data.
 
