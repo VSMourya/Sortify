@@ -24,6 +24,10 @@ HOW TO RUN:
   - revert the sorting
 
 
+Feel free to add different file formats and tweak the file acccording to your own needs and requirements. 
+
+
+
 IMPORTANT : Sorting process is irreversible, so first try out with a copy of your data.
 
 
